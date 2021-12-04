@@ -35,7 +35,6 @@
     <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
     <link href="http://fonts.cdnfonts.com/css/Quicksand" rel="stylesheet">
     <link href="{{ asset('css/lablog.css') }}" rel="stylesheet">
-        @include('inc.googleTag')
 </head>
 
 <body>

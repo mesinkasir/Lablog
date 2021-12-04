@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+        html,
+        body,
+        p {
+            font: 100 1.115rem/1.275rem 'Quicksand', sans-serif;
+        }
+
+        d {
+            font: 100 0.715rem/0.975rem 'Quicksand', sans-serif;
+        }
+
+        a:link {
+            color: red;
+        }
+
+        a:visited {
+            color: red;
+        }
+
+        a:hover {
+            color: red;
+        }
+
+        a:active {
+            color: red;
+        }

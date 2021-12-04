@@ -1,0 +1,10 @@
+@extends('layouts.app')
+@section('title','Full Web App integration')
+@section('content')
+@include('widget.premium.prohead')
+@include('widget.premium.pro1') 
+@include('widget.premium.pro2') 
+@include('widget.premium.pro3') 
+@include('widget.premium.pro4') 
+@include('widget.premium.profooter')            
+@endsection

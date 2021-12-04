@@ -1,0 +1,18 @@
+a {
+    color: #343a40;
+}
+a:hover {
+    text-decoration: none;
+    color: #343a40;
+}
+@import url('http://fonts.cdnfonts.com/css/annabeth');
+
+html, body,
+
+p {
+	font: 100 1.315rem/1.475rem 'Annabeth', sans-serif;
+}
+	{
+    margin: 0;
+font-family: 'Annabeth', sans-serif;
+}

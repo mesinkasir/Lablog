@@ -39,6 +39,7 @@ Recipes :
 + Laravel the PHP Artisan
 + Vuejs
 + Bootstrap
++ sqlite database
 
 -----------------------------------------------------------------------------
 
